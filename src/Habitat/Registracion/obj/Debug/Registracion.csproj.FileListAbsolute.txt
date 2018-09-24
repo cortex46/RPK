@@ -1,0 +1,402 @@
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\ApplicationInsights.config
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Registracion.dll.config
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Registracion.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Registracion.pdb
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\csc.exe
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\csc.exe.config
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\csc.rsp
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\csi.exe
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\csi.exe.config
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\csi.rsp
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.AppContext.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Console.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\vbc.exe
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\vbc.exe.config
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\vbc.rsp
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Antlr3.Runtime.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.Web.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Newtonsoft.Json.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.Helpers.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.Mvc.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.Optimization.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.Razor.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.WebPages.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\WebGrease.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.Helpers.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.Mvc.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.Optimization.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.Razor.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.WebPages.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Newtonsoft.Json.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Antlr3.Runtime.pdb
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.AI.Web.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\es\System.Web.Razor.resources.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\obj\Debug\Registracion.csprojAssemblyReference.cache
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\obj\Debug\Registracion.csproj.CoreCompileInputs.cache
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\obj\Debug\Registracion.csproj.CopyComplete
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\obj\Debug\Registracion.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\obj\Debug\Registracion.pdb
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Http.Extensions.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Http.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Http.Extensions.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Http.Primitives.xml
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\obj\Debug\Registracion.csproj.App.config
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\netstandard.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.AppContext.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Collections.Concurrent.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Collections.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Collections.NonGeneric.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Collections.Specialized.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.ComponentModel.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.ComponentModel.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Console.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Data.Common.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.Contracts.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.Debug.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.Process.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.Tools.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Diagnostics.Tracing.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Drawing.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Dynamic.Runtime.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Globalization.Calendars.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Globalization.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Globalization.Extensions.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.Compression.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.FileSystem.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.IsolatedStorage.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.Pipes.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Linq.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Linq.Expressions.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Linq.Parallel.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Linq.Queryable.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Http.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.NameResolution.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.NetworkInformation.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Ping.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Requests.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Security.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.Sockets.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.WebSockets.Client.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Net.WebSockets.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.ObjectModel.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Reflection.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Reflection.Extensions.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Reflection.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Resources.Reader.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Resources.ResourceManager.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Resources.Writer.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.Extensions.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.Handles.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.InteropServices.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.Numerics.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Security.Claims.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Security.Principal.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Security.SecureString.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Text.Encoding.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Text.RegularExpressions.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Threading.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Threading.Overlapped.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Threading.Tasks.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Threading.Thread.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Threading.ThreadPool.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Threading.Timer.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.ValueTuple.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Xml.ReaderWriter.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Xml.XDocument.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Xml.XmlDocument.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Xml.XmlSerializer.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Xml.XPath.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\GoogleApi.dll
+C:\Users\Fer Benitez\source\repos\Registracion\Registracion\bin\GoogleApi.pdb
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\ApplicationInsights.config
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Registracion.dll.config
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Registracion.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Registracion.pdb
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\csc.exe
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\csc.exe.config
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\csc.rsp
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\csi.exe
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\csi.exe.config
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\csi.rsp
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.AppContext.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Collections.Immutable.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Console.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.IO.Compression.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.IO.FileSystem.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.IO.Pipes.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Security.AccessControl.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Security.Claims.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.ValueTuple.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Xml.XPath.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\vbc.exe
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\vbc.exe.config
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\vbc.rsp
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\VBCSCompiler.exe
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\roslyn\VBCSCompiler.exe.config
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.Win32.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\netstandard.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.AppContext.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Collections.Concurrent.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Collections.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Collections.NonGeneric.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Collections.Specialized.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.ComponentModel.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.ComponentModel.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.ComponentModel.TypeConverter.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Console.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Data.Common.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.Contracts.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.Debug.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.Process.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.StackTrace.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.Tools.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.TraceSource.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.Tracing.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Drawing.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Dynamic.Runtime.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Globalization.Calendars.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Globalization.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Globalization.Extensions.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.Compression.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.Compression.ZipFile.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.FileSystem.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.FileSystem.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.FileSystem.Watcher.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.IsolatedStorage.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.MemoryMappedFiles.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.Pipes.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Linq.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Linq.Expressions.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Linq.Parallel.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Linq.Queryable.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Http.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.NameResolution.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.NetworkInformation.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Ping.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Requests.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Security.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Sockets.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.WebHeaderCollection.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.WebSockets.Client.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.WebSockets.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.ObjectModel.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Reflection.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Reflection.Extensions.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Reflection.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Resources.Reader.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Resources.ResourceManager.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Resources.Writer.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.Extensions.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.Handles.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.InteropServices.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.Numerics.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.Serialization.Formatters.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.Serialization.Json.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.Serialization.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Runtime.Serialization.Xml.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Security.Claims.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Security.Cryptography.Algorithms.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Security.Cryptography.Csp.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Security.Cryptography.Encoding.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Security.Cryptography.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Security.Principal.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Security.SecureString.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Text.Encoding.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Text.Encoding.Extensions.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Text.RegularExpressions.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Threading.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Threading.Overlapped.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Threading.Tasks.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Threading.Tasks.Parallel.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Threading.Thread.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Threading.ThreadPool.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Threading.Timer.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.ValueTuple.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Xml.ReaderWriter.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Xml.XDocument.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Xml.XmlDocument.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Xml.XmlSerializer.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Xml.XPath.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Xml.XPath.XDocument.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Antlr3.Runtime.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\GoogleApi.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.Web.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.WindowsServer.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.ApplicationInsights.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Newtonsoft.Json.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Http.Extensions.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Http.Primitives.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.Helpers.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.Mvc.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.Optimization.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.Razor.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.WebPages.Deployment.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.WebPages.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.WebPages.Razor.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\WebGrease.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\GoogleApi.pdb
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Newtonsoft.Json.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Http.Extensions.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Net.Http.Primitives.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.Helpers.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.Mvc.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.Optimization.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.Razor.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.WebPages.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.WebPages.Deployment.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Web.WebPages.Razor.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Antlr3.Runtime.pdb
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.WindowsServer.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.AI.Web.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\es\System.Web.Helpers.resources.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\es\System.Web.Mvc.resources.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\es\System.Web.Optimization.resources.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\es\System.Web.Razor.resources.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\es\System.Web.WebPages.resources.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.csproj.App.config
+C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.csprojAssemblyReference.cache
+C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.csproj.CoreCompileInputs.cache
+C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.csproj.CopyComplete
+C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.pdb
