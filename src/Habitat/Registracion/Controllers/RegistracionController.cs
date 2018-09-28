@@ -15,7 +15,11 @@ namespace Registracion.Controllers
     {
         public ActionResult Inicio()
         {
+// Evaluar si se puede hacer sin la urll....
+
             validarLogin(); //Si esta logueado no mostrar registracion.. mostrar home..
+
+
             return View();
         }
 
