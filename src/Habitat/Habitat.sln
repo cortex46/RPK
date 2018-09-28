@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registracion", "Registracion\Registracion.csproj", "{47227A99-5C8E-4177-8508-7DB506455437}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleApi", "GoogleApi\GoogleApi.csproj", "{A0DEB821-3E55-4CC7-A8FC-C7FCAFA3A7A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleApi", "GoogleApi\GoogleApi.csproj", "{A0DEB821-3E55-4CC7-A8FC-C7FCAFA3A7A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper.GoogleApi", "Helpers.GoogleApi\Helper.GoogleApi.csproj", "{5890BC6F-A6D8-4A99-8170-73F29978A51A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,22 @@ Global
 		{A0DEB821-3E55-4CC7-A8FC-C7FCAFA3A7A2}.Release|x64.Build.0 = Release|Any CPU
 		{A0DEB821-3E55-4CC7-A8FC-C7FCAFA3A7A2}.Release|x86.ActiveCfg = Release|Any CPU
 		{A0DEB821-3E55-4CC7-A8FC-C7FCAFA3A7A2}.Release|x86.Build.0 = Release|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Debug|ARM.Build.0 = Debug|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Debug|x64.Build.0 = Debug|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Debug|x86.Build.0 = Debug|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Release|ARM.ActiveCfg = Release|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Release|ARM.Build.0 = Release|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Release|x64.ActiveCfg = Release|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Release|x64.Build.0 = Release|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Release|x86.ActiveCfg = Release|Any CPU
+		{5890BC6F-A6D8-4A99-8170-73F29978A51A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

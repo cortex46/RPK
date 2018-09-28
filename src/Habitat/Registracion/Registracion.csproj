@@ -225,6 +225,10 @@
       <Project>{a0deb821-3e55-4cc7-a8fc-c7fcafa3a7a2}</Project>
       <Name>GoogleApi</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Helpers.GoogleApi\Helper.GoogleApi.csproj">
+      <Project>{5890bc6f-a6d8-4a99-8170-73f29978a51a}</Project>
+      <Name>Helper.GoogleApi</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

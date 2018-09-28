@@ -400,3 +400,5 @@ C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.csproj.CoreCo
 C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.csproj.CopyComplete
 C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.dll
 C:\Desarrollos\RPK\src\Habitat\Registracion\obj\Debug\Registracion.pdb
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Helper.GoogleApi.dll
+C:\Desarrollos\RPK\src\Habitat\Registracion\bin\Helper.GoogleApi.pdb
