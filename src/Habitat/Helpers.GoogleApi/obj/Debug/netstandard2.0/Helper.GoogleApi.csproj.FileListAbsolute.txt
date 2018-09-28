@@ -1,0 +1,9 @@
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\bin\Debug\netstandard2.0\Helper.GoogleApi.deps.json
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\bin\Debug\netstandard2.0\Helper.GoogleApi.dll
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\bin\Debug\netstandard2.0\Helper.GoogleApi.pdb
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\obj\Debug\netstandard2.0\Helper.GoogleApi.csprojAssemblyReference.cache
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\obj\Debug\netstandard2.0\Helper.GoogleApi.csproj.CoreCompileInputs.cache
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\obj\Debug\netstandard2.0\Helper.GoogleApi.AssemblyInfoInputs.cache
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\obj\Debug\netstandard2.0\Helper.GoogleApi.AssemblyInfo.cs
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\obj\Debug\netstandard2.0\Helper.GoogleApi.dll
+C:\Desarrollos\RPK\src\Habitat\Helpers.GoogleApi\obj\Debug\netstandard2.0\Helper.GoogleApi.pdb
